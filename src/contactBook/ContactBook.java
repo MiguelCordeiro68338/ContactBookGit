@@ -101,7 +101,7 @@ public class ContactBook {
                return c;
            }
         }
-        return c;
+        return null;
     }
 
 }
